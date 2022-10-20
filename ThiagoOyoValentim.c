@@ -42,7 +42,7 @@ int main (){
 			break;
 			
 		case 'B':
-			printf("Opcao Invalida!");
+			printf("Opcao Invalida.");
 			break; 
 			
 		case 'C':
@@ -89,7 +89,7 @@ int main (){
 			break;
 			
 		default: 
-			printf("Opcao Invalida!");
+			printf("Opcao Invalida.");
 			break;		
 	} 
 	
